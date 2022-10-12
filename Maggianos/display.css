@@ -1,0 +1,108 @@
+body
+{
+    background-color: #FCF0C8;
+    color: black;
+    margin: auto;
+    max-width: 800px;
+    padding: 1rem;
+}
+
+main
+{
+    background-color:#FACE7F;
+    padding: 2.5rem;
+    text-align: center;
+    max-width: 800px;
+   
+   
+}
+
+#Appetizers
+{
+    
+    padding: 30px;
+    max-width: 800px;
+    margin: auto;
+}
+
+#Pastas
+{
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+}
+
+#Seafood
+{
+    padding: 30px;
+    max-width: 800px;
+    margin: auto;
+}
+
+#Desserts
+{
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+}
+
+.price
+{
+    color: #911F27;
+    font-style: italic;
+}
+
+h1
+{
+    font-family: Helvetical, serif;
+    font-size: 2.5rem;
+    color: #630A10;
+    margin: bottom 2%;
+
+}
+
+h2
+{
+    font-family: Helvetical, serif;
+    color: #911F27;
+    font-size: 1.75rem;
+    margin-top: 1;
+    margin-bottom: .25rem;
+    background-color: beige;
+}
+ h3
+ {
+    font-family: "Duru Sana", Verdana, sans-serif;
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+ }
+header
+{
+    background-color: #630A10;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 10px;
+    color:#FACE7F
+}
+
+footer
+{
+    background-color: #630A10;
+    padding: 20px;
+    color: #FACE7F;
+}
+p
+{
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+img
+{
+display: block;
+max-width: 100%;
+height: auto;
+margin: auto;
+padding: 1.5rem;
+
+}
